@@ -15,3 +15,9 @@ changed ->> staged changed
 git add.
 git commit -m 'message'
 git push
+
+//clone 1 repo
+git clone
+
+//lay code moi nhat ve
+git pull
